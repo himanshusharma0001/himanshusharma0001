@@ -96,8 +96,8 @@ Neural networks fundamentals alongside hands-on exploration of LLMs, prompting, 
 
 | Project | What it does | Built with |
 |---|---|---|
-| _Add your first project_ | _One-line description_ | `Python` `scikit-learn` |
-| _Add your second project_ | _One-line description_ | `Flask` `Pandas` |
+| __ | _One-line description_ | `Python` `scikit-learn` |
+| __ | _One-line description_ | `Flask` `Pandas` |
 
 </div>
 
