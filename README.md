@@ -23,10 +23,10 @@ class Himanshu:
         self.role       = "Student, AI/ML Enthusiast"
         self.currently  = ["Machine Learning", "Deep Learning", "Generative AI"]
         self.tools      = ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "Flask"]
-        self.fun_fact   = "Turning coffee ☕ into models 🧠"
+        self.fun_fact   = "Turning coffee into models"
 
     def say_hi(self):
-        return "Let's build something intelligent 🚀"
+        return "Let's build something intelligent"
 
 me = Himanshu()
 print(me.say_hi())
@@ -54,42 +54,50 @@ print(me.say_hi())
 
 ---
 
-### `~/ github-stats`
+### `~/ proficiency`
+
+```text
+Python                       ██████████████████░░  90%
+Data Analysis (NumPy/Pandas) ███████████████░░░░░  75%
+Data Visualization           ██████████████░░░░░░  70%
+Machine Learning             █████████████░░░░░░░  65%
+Deep Learning                ██████████░░░░░░░░░░  50%
+Flask / Web Dev              ████████████░░░░░░░░  60%
+```
+
+---
+
+### `~/ currently-learning`
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Machine Learning**
+Supervised & unsupervised algorithms, model evaluation, feature engineering — building end-to-end projects with scikit-learn.
+
+</td>
+<td width="50%" valign="top">
+
+**Deep Learning & Gen-AI**
+Neural networks fundamentals alongside hands-on exploration of LLMs, prompting, and generative AI tooling.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `~/ featured-projects`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshusharma0001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma0001&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+*Pin your best 4-6 repos from your profile page ("Customize your pins") — they'll display natively on GitHub. Use this table as a backup summary.*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusharma0001&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-</div>
-
-### `~/ contribution-activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusharma0001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" />
-
-</div>
-
-### `~/ contribution-snake`
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/himanshusharma0001/himanshusharma0001/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-> 💡 Snake animation needs a one-time GitHub Actions setup — instructions below.
-
-### `~/ trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshusharma0001&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+| Project | What it does | Built with |
+|---|---|---|
+| _Add your first project_ | _One-line description_ | `Python` `scikit-learn` |
+| _Add your second project_ | _One-line description_ | `Flask` `Pandas` |
 
 </div>
 
