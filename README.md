@@ -137,8 +137,6 @@ Neural networks fundamentals alongside hands-on exploration of LLMs, prompting, 
 
 <div align="center">
 
-*Pin your best 4-6 repos from your profile page ("Customize your pins") — they'll display natively on GitHub. Use this table as a backup summary.*
-
 | Project | What it does | Built with |
 |---|---|---|
 | _Add your first project_ | _One-line description_ | `Python` `scikit-learn` |
