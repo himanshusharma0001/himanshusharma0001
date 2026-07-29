@@ -7,7 +7,7 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=himanshusharma0001&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views"/>
-<a href="mailto:hsharma.workmail@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsharma.workmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rawkin"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
@@ -107,7 +107,7 @@ Neural networks fundamentals alongside hands-on exploration of LLMs, prompting, 
 
 <div align="center">
 
-<a href="mailto:hsharma.workmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsharma.workmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rawkin"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
